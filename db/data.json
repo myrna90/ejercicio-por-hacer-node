@@ -1,0 +1,6 @@
+/*Base de datos*/
+
+[
+  { "descripcion": "Comer", "completado": "true" },
+  { "descripcion": "Pasear al perro", "completado": false }
+]
